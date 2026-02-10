@@ -49,10 +49,10 @@
     <td align="center"><b>Artistic Style</b></td>
   </tr>
   <tr>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/1_zhongcao_style.mp4" width="220" /></td>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/2_humorous_style.mp4" width="220" /></td>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/3_product_pick.mp4" width="220" /></td>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/4_artistic_style.mp4" width="220" /></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/1_zhongcao_style.mp4" width="220" </video></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/2_humorous_style.mp4" width="220" </video></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/3_product_pick.mp4" width="220" </video></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/4_artistic_style.mp4" width="220" </video></td>
   </tr>
 
   <tr>
