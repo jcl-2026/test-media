@@ -62,10 +62,10 @@
     <td align="center"><b>Year-in-Review</b></td>
   </tr>
   <tr>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/5-Unboxing.mp4" width="220" /></td>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/6_talking_pet.mp4" width="220" /></td>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/7_travel_vlog.mp4" width="220" /></td>
-    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/8_year_review.mp4" width="220" /></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/5-Unboxing.mp4" width="220" </video></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/6_talking_pet.mp4" width="220" </video></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/7_travel_vlog.mp4" width="220" </video></td>
+    <td align="center"><video src="https://github.com/FireRedTeam/fireredteam.github.io/raw/main/demos/firered_openstoryline/videos/8_year_review.mp4" width="220" </video></td>
   </tr>
 </table>
 
